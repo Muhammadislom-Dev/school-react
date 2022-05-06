@@ -1,0 +1,44 @@
+.section{
+    padding: 50px 0;
+}
+
+.section-input{
+    width: 500px;
+    height: 50px;
+    outline: none;
+    border: 1px solid #000;
+}
+.section-list{
+    width: 500px;
+    display: flex;
+    background-color: white;
+    border: 1px solid #000;
+    align-items: center;
+}
+select{
+    width: 70px;
+    height: 58px;
+    border: 1px solid #fff;
+    outline: none;
+}
+.section-inputs{
+    width: 430px;
+    height: 46px;
+    outline: none;
+    border: 1px solid #fff;
+    background-color: white;
+}
+
+
+.section-checkbox{
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
+
+.section-text{
+    color: #00004a;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Arial;
+}
