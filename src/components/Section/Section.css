@@ -16,7 +16,7 @@
     align-items: center;
 }
 select{
-    width: 70px;
+    /* width: 80px; */
     height: 58px;
     border: 1px solid #fff;
     outline: none;
@@ -41,4 +41,22 @@ select{
     font-size: 14px;
     font-weight: 400;
     font-family: Arial;
+}   
+
+
+
+.section-btn{
+    color: #fff;
+    background-color: #00004a;
+    border-radius: 100px;
+    font-weight: 600;
+    font-size: 16px;
+    width: 160px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+    display: block;
 }
+
+
